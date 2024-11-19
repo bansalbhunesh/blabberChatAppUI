@@ -75,7 +75,7 @@ function Login() {
     <form onSubmit={(e)=>{handleSubmit(e)}}>
     <div className = "brand">
       <img src = {logo} alt = ""/>
-      <h1>BlabberBuzz!</h1>
+      <h1>Chat Hive!</h1>
     </div>
     <input
     type = "text"
