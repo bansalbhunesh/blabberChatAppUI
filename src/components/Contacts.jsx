@@ -24,7 +24,7 @@ export default function Contacts({contacts,currentUser,changeChat}){
         <Container>
             <div className="brand">
                 <img src={logo} alt = ""/>
-                <h3>BlabberBuzz</h3>
+                <h3>Chat Hive</h3>
 
             </div>
 
